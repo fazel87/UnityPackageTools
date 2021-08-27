@@ -8,5 +8,5 @@ open nuget and search and download System.IO.Compression.ZipFile<br>
 next build and run project<br>
 
 # How to Use
-run project (or download release and run)<br>
+run project (or download [release](https://github.com/fazel87/UnityPackageTools/releases/tag/1.0) and run)<br>
 go to Help / How to use<br>
