@@ -2,7 +2,7 @@
 Extract And Convert UnityPackage
 
 # How to install
-Frist Download https://github.com/fazel87/UnityPackageTools/archive/refs/heads/main.zip<br>
+Frist Download [here](https://github.com/fazel87/UnityPackageTools/archive/refs/heads/main.zip)<br>
 next open UnityPackageTools.sln with visual studio<br>
 open nuget and search and download System.IO.Compression.ZipFile<br>
 next build and run project<br>
