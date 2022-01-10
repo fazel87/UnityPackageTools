@@ -1,6 +1,3 @@
-<head>
-  <meta name="google-site-verification" content="jqUvCsHnqiUJtneJX4Je3qg5zXuaxYm2mmq2zXHBw-0" />
-<head>
 # UnityPackageTools
 Extract And Convert UnityPackage
 
